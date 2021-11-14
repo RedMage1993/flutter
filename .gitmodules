@@ -1,0 +1,3 @@
+[submodule "photobooth"]
+	path = photobooth
+	url = https://github.com/RedMage1993/photobooth
